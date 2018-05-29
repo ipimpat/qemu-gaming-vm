@@ -10,11 +10,11 @@ Please note, that this is still work in progress, and some information is missin
 
 ## Hardware used in this example
 
-**CPU:** Intel Core i7 7700K
-**RAM:** 32 GB
-**GPU:** Gainward GTX 1070 8GB
-**Motherboard:** ASUS STRIX Z270F GAMING
-**Storage:** Intel 512GB SSD (storage pool)
+- **CPU:** Intel Core i7 7700K
+- **RAM:** 32 GB
+- **GPU:** Gainward GTX 1070 8GB
+- **Motherboard:** ASUS STRIX Z270F GAMING
+- **Storage:** Intel 512GB SSD (storage pool)
 
 ## Install QEMU and libvirt
 
